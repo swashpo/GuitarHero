@@ -1,12 +1,4 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P03
- *
- *
- *  Description: Uses GuitarString and RingBuffer to play music!
- *
- **************************************************************************** */
+// Uses GuitarString and RingBuffer to play music!
 
 public class GuitarHero {
     public static void main(String[] args) {
