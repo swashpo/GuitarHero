@@ -1,12 +1,6 @@
-/* *****************************************************************************
- *  Name: Richard Ma
- *  NetID: rm44
- *  Precept: P03
- *
- *  Description:  Constructor for GuitarString and methods to interact with
- *  GuitarString
- *
- **************************************************************************** */
+ // Description:  Constructor for GuitarString and methods to interact with
+ // GuitarString
+ 
 
 public class GuitarString {
 
