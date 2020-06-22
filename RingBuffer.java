@@ -1,11 +1,5 @@
-/* *****************************************************************************
- *  Name: Richard Ma
- *  NetID: rm44
- *  Precept: P03
- *
- *  Description: Includes constructor for ring buffer and methods
- *  to manipulate and extract information from ring buffer
- **************************************************************************** */
+// Description: Includes constructor for ring buffer and methods
+// to manipulate and extract information from ring buffer
 
 public class RingBuffer {
 
